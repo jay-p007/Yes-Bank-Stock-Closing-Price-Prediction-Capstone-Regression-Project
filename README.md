@@ -2,6 +2,8 @@
 
 Predicting the closing stock prices of Yes Bank based on historical data, including open, high, low, and close prices. The project explores the impact of a fraud case involving Rana Kapoor on the stock prices and aims to provide insights for investors and analysts.
 
+![Decoding-Collapse](https://github.com/jay-p007/Yes-Bank-Stock-Closing-Price-Prediction-Capstone-Regression-Project/assets/154582415/fdaec078-3ebe-4160-812d-e1860979e3bd)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -16,6 +18,7 @@ Predicting the closing stock prices of Yes Bank based on historical data, includ
 The project analyzes the impact of a fraud case involving Rana Kapoor on the stock prices of Yes Bank. It utilizes historical stock price data, including monthly open, high, low, and close prices, to predict the closing stock prices. The models implemented include Ridge Regression, Random Forest, and XGBoost Regressor. Insights gained from these models help investors and analysts make informed decisions.
 
 ## Usage 
+To explore the findings and insights, refer to the Colab Notebooks provided in the GitHub repository.
 
 ## Data Source
 To access the Data: [Click Here](https://drive.google.com/file/d/1qE-lEu9VDFTQ26ivGoBpg4Ztoe1sek7f/view)
