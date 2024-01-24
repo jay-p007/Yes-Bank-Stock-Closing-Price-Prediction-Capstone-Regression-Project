@@ -8,10 +8,10 @@ Predicting the closing stock prices of Yes Bank based on historical data, includ
 
 - [Overview](#overview)
 - [Usage](#usage)
-- [Data Source](#Data-Source)
+- [Data Source](#data-source)
 - [Models](#models)
 - [Charts and Visualizations](#charts-and-visualizations)
-- [Conclusion and Future Considerations](#Conclusion-and-Future-Considerations)
+- [Conclusion and Future Considerations](#conclusion-and-future-considerations)
 
 ## Overview
 
